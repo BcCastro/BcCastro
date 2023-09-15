@@ -4,7 +4,7 @@ Hola ✌🏾
 
 ° Actualmente estoy sumergido en el aprendizaje de React.js
 
-° Tengo la capacidad de trabajar en equipo y busco colaborar o ser parte de proyectos donde mis capacidades y conocimientos puedan ser aportados
+° Tengo la capacidad de trabajar en equipo y busco colaborar o ser parte de proyectos donde mis capacidades y conocimientos puedan ser aportados.
 
 ° 📡 Me puedes contactar aquí: ✉️ bhcastro1101@gmail.com
 
