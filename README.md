@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola ✌🏾
 
-<!--
-**BcCastro/BcCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+° Soy desarrollador web frontend 💻
 
-Here are some ideas to get you started:
+° Actualmente estoy sumergido en el aprendizaje de React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+° Tengo la capacidad de trabajar en equipo y busco colaborar o ser parte de proyectos donde mis capacidades y conocimientos puedan ser aportados
+
+° 📡 Me puedes contactar aquí: ✉️ bhcastro1101@gmail.com
+
+° Me gusta reír 😁, la música 🎶 y los videojuegos 👾.
+
+Languages and Tools:
+
+image image image image image image
