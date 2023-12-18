@@ -2,7 +2,7 @@ Hola ✌🏾
 
 ° Soy desarrollador web frontend 💻
 
-° Actualmente estoy sumergido en el aprendizaje de React.js
+° Actualmente estoy sumergido en el aprendizaje de React.js, Python y Node.js.
 
 ° Tengo la capacidad de trabajar en equipo y busco colaborar o ser parte de proyectos donde mis capacidades y conocimientos puedan ser aportados.
 
@@ -16,5 +16,7 @@ HTML,
 CSS/SCSS,
 JAVASCRIPT,
 REACT.JS,
+PYTHON,
+NODE.JS,
 TRELLO,
 FIGMA
