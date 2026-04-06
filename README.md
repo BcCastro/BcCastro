@@ -1,8 +1,8 @@
 Hola ✌🏾
 
-° Soy desarrollador web frontend 💻
+° Soy desarrollador de software 💻
 
-° Actualmente estoy sumergido en el aprendizaje de Mongo DB y Node.js.
+° Actualmente estoy sumergido en el aprendizaje de Mongo DB, Node.js y culmino mis estudios como Tecnologo en Analisis y Desarrollo de Software
 
 ° Tengo la capacidad de trabajar en equipo y busco colaborar o ser parte de proyectos donde mis capacidades y conocimientos puedan ser aportados.
 
