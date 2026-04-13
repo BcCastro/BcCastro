@@ -1,21 +1,21 @@
-<h1 align="center">👋 Hola, soy Alexandra Cardozo Bevanidez</h1>
+<h1 align="center">👋 Hola, soy Bryant Hernandez Castro</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=FF69B4,8A2BE2,00BFFF&center=true&vCenter=true&width=600&lines=Construyendo+mi+futuro+en+programación;Desarrolladora+de+Software;Apasionada+por+la+tecnología;Aprendiendo+y+creciendo+cada+día" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Construyendo+mi+futuro+en+programación;Desarrollador+de+Software;Apasionado+por+la+tecnología;Aprendiendo+y+creciendo+cada+día" />
 </p>
 
 <p align="center">
-💻 Desarrolladora de Software | 🚀 Apasionada por la tecnología | 🇨🇴 Colombia
+💻 Desarrollador de Software | 🚀 Apasionado por la tecnología | 🇨🇴 Colombia
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Tecnóloga en Análisis y Desarrollo de Software (en formación)
+- 🎓 Tecnólogo en Análisis y Desarrollo de Software (en formación)
 - 🌱 En constante aprendizaje de nuevas tecnologías
 - 🤝 Me gusta trabajar en equipo y construir proyectos reales
-- 🎯 Enfocada en crecer como desarrolladora profesional
+- 🎯 Enfocado en crecer como desarrollador profesional
 
 ---
 
@@ -42,10 +42,10 @@
 
 ## 📫 Contáctame
 
-- 📧 Email: **tuemail@gmail.com**
+- 📧 Email: **bhcastro1101@gmail.com**
 
 ---
 
-## 💜 Frase
+## ⚡ Frase
 
-> "El código también puede ser elegante, creativo y poderoso."
+> "El éxito en programación no es saberlo todo, es nunca dejar de aprender."
