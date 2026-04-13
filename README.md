@@ -14,8 +14,8 @@
 
 - 🎓 Tecnólogo en Análisis y Desarrollo de Software (en formación)
 - 🌱 En constante aprendizaje de nuevas tecnologías
-- 🤝 Me gusta trabajar en equipo y construir proyectos reales
-- 🎯 Enfocado en crecer como desarrollador profesional
+- 🤝 Bootcamper Desarrollo Frontend y Analisis de Datos
+- 🎯 Técnico en Programación de Aplicaciones y Servicios para la Nube
 
 ---
 
