@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-💻 Desarrollador de Software | Data Analytics |🚀 Apasionado por la tecnología | Colombia
+💻 Desarrollador de Software | Data Analytics |🚀 Apasionado por la tecnología | co Colombia
 </p>
 
 ---
