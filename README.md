@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Bryant Hernandez Castro</h1>
+<h1 align="center">👋 Hola, soy Bryant Hernández Castro</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Construyendo+mi+futuro+en+programación;Desarrollador+de+Software;Apasionado+por+la+tecnología;Aprendiendo+y+creciendo+cada+día" />
